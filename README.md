@@ -16,7 +16,8 @@
 
 **Requirments:**
 - Windows Based Computer
-- Python 3 [ For Source Only]
+- Python 3 [ For Source Only ]
+- Run As Admin
 - **One Brain Cell**
 
 **Addition credit:** 
