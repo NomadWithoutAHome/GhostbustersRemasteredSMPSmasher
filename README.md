@@ -1,4 +1,4 @@
-# Ghostbusters Remasted SMP Audio Smasher
+# Ghostbusters Remastered SMP Audio Smasher
 
 ![Alt Text](https://i.imgur.com/rqKPQ85.png)
  
