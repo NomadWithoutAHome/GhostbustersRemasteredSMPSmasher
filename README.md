@@ -20,5 +20,5 @@
 - Run As Admin
 - **One Brain Cell**
 
-**Addition credit:** 
+**Additional credit:** 
 - [SirYodaJedi]( https://gist.github.com/SirYodaJedi/c63d3c1843db9190764a2a0b272b1c08) - For Idea 
